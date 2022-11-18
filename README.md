@@ -1,6 +1,6 @@
 # Faithful32 1.12.2 Modded
 
-This Pack does not cover Vanilla textures. Use [Faithful Java 1.12 by xMrVizzy](https://minecraft.curseforge.com/projects/faithful-32x/files/2480942)
+This Pack does not cover Vanilla textures. Use [Classic Faithful 32x Programmer Art for 1.12.2 by Evorp & many others](https://github.com/ClassicFaithful/32x-Programmer-Art/tree/1.12.2)
 
 
 We are also on [Curseforge](https://minecraft.curseforge.com/projects/faithful32-modded)
